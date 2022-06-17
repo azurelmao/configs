@@ -1,0 +1,38 @@
+font:
+    size: 14
+    normal:
+        family: 'CozetteVector'
+
+window:
+    dimensions:
+        columns: 66
+        lines: 17
+
+colors:
+    primary:
+        background: '#131138'
+        foreground: '#a4a4fc'
+
+    cursor:
+        text: CellBackground
+        cursor: '#e0e0fc'
+
+    normal:
+        black:   '#1c1b19'
+        red:     '#ef2f27'
+        green:   '#519f50'
+        yellow:  '#fbb829'
+        blue:    '#2c78bf'
+        magenta: '#e02c6d'
+        cyan:    '#0aaeb3'
+        white:   '#e0e0fc'
+
+    bright:
+        black:   '#1c1b19'
+        red:     '#ef2f27'
+        green:   '#519f50'
+        yellow:  '#fbb829'
+        blue:    '#2c78bf'
+        magenta: '#e02c6d'
+        cyan:    '#0aaeb3'
+        white:   '#e0e0fc'
